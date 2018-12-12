@@ -1,1 +1,0 @@
-web: gunicorn InstaZen.wsgi --log-file -

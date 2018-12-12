@@ -1,0 +1,1 @@
+web: gunicorn Instazen.wsgi --log-file -
