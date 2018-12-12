@@ -1,1 +1,1 @@
-web: gunicorn Instazen.wsgi --log-file -
+web: gunicorn InstaZen.wsgi --log-file -
