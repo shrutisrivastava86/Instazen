@@ -19,5 +19,4 @@ coverage
 flake8
 geopy
 django-leaflet
-gunicorn
 django-heroku
